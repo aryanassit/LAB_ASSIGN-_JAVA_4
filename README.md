@@ -35,7 +35,3 @@ java StudentRecordSystem
 <img width="457" height="667" alt="image" src="https://github.com/user-attachments/assets/d514f212-57ea-4fcf-bdf0-78c2b1f8a9d1" />
 
 
-
-Display All Students
-
-Exit
